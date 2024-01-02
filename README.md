@@ -42,5 +42,16 @@ enter the number: 5
    * * *
     * *
      *
+```
 
+
+pattern 5 output:-<br/>
+<br/>
+```agsl
+enter the number: 5
+*****
+ ****
+  ***
+   **
+    *
 ```
