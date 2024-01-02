@@ -152,3 +152,20 @@ Enter the number: 5
 **
 *
 ```
+
+
+pattern 12 output:-<br/>
+<br/>
+```agsl
+
+Enter the number: 5
+    *
+   **
+  ***
+ ****
+*****
+ ****
+  ***
+   **
+    *
+```
