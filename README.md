@@ -94,3 +94,19 @@ Enter the numer: 5
        * * * 
          * 
 ```
+
+
+pattern 9 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+```
