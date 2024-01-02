@@ -1,3 +1,15 @@
+pattern 0 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+```
+
+
 pattern 1 output:-<br/>
 <br/>
 ```
