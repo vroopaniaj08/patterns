@@ -25,11 +25,12 @@ pattern 3 output:-<br/>
 <br/>
 ```
 enter the number: 5
-    
-   * 
-  * * 
- * * * 
-* * * * 
+     
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
 ```
 
 
@@ -67,4 +68,16 @@ enter the number: 6
  * * *
  * *
  *
+```
+
+
+pattern 7 output:-<br/>
+<br/>
+```agsl
+Enter the numer: 5
+         * 
+       * * * 
+     * * * * * 
+   * * * * * * * 
+ * * * * * * * * * 
 ```
