@@ -169,3 +169,19 @@ Enter the number: 5
    **
     *
 ```
+
+
+pattern 13 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+```
