@@ -1,3 +1,5 @@
+#Pattern by apoorvJain
+
 pattern 0 output:-<br/>
 <br/>
 ```agsl
@@ -133,4 +135,20 @@ Enter the number: 5
 1 2 3 
 1 2 3 4 
 1 2 3 4 5 
+```
+
+
+pattern 11 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+    *
+   **
+  ***
+ ****
+*****
+****
+***
+**
+*
 ```
