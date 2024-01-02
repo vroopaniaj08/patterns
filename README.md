@@ -122,3 +122,15 @@ Enter the number: 5
 * * 
 * 
 ```
+
+
+pattern 10 output:-</br>
+<br/>
+```agsl
+Enter the number: 5
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+```
