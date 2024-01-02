@@ -14,10 +14,11 @@ pattern 2 output:-<br/>
 <br/>
 ```
 enter the number: 5
-   *
-  **
- ***
-****
+    *
+   **
+  ***
+ ****
+*****
 ```
 
 
