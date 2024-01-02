@@ -201,3 +201,15 @@ Enter the number: 5
 **      **
 *        *
 ```
+
+
+pattern 15 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+        1 
+      2 1 2 
+    3 2 1 2 3 
+  4 3 2 1 2 3 4 
+5 4 3 2 1 2 3 4 5 
+```
