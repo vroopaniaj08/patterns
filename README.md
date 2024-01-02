@@ -55,3 +55,16 @@ enter the number: 5
    **
     *
 ```
+
+
+pattern 6 output:-<br/>
+<br/>
+```agsl
+enter the number: 6
+ * * * * * *
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
+```
