@@ -81,3 +81,15 @@ Enter the numer: 5
    * * * * * * * 
  * * * * * * * * * 
 ```
+
+
+pattern 8 output:-<br/>
+<br/>
+```agsl
+Enter the numer: 5
+ * * * * * * * * * 
+   * * * * * * * 
+     * * * * * 
+       * * * 
+         * 
+```
