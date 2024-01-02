@@ -19,3 +19,15 @@ enter the number: 5
  ***
 ****
 ```
+
+
+pattern 3 output:-<br/>
+<br/>
+```
+enter the number: 5
+    
+   * 
+  * * 
+ * * * 
+* * * * 
+```
