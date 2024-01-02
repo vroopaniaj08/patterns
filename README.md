@@ -31,3 +31,16 @@ enter the number: 5
  * * * 
 * * * * 
 ```
+
+
+pattern 4 output:-<br/>
+<br/>
+```
+enter the number: 5
+ * * * * *
+  * * * *
+   * * *
+    * *
+     *
+
+```
