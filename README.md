@@ -260,7 +260,7 @@ Enter the number: 5
 ```
 
 
-pattern 19 output:-<br/>
+pattern 19 (Pascal's triangle) output:-<br/>
 <br/>
 ```agsl
 Enter the number: 5
@@ -269,4 +269,16 @@ Enter the number: 5
   1 2 1 
  1 3 3 1 
 1 4 6 4 1 
+```
+
+
+pattern 20 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
 ```
