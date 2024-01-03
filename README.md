@@ -1,4 +1,4 @@
-#Pattern by apoorvJain
+#Patterns by apoorvJain
 
 pattern 0 output:-<br/>
 <br/>
@@ -224,4 +224,21 @@ Enter the number: 5
 4 5 6 
 7 8 9 10 
 11 12 13 14 15 
+```
+
+
+pattern 17 output:-<br/>
+<br/>
+```agsl
+Enter the number: 5
+          
+        1 
+      2 1 2 
+    3 2 1 2 3 
+  4 3 2 1 2 3 4 
+5 4 3 2 1 2 3 4 5 
+  4 3 2 1 2 3 4 
+    3 2 1 2 3 
+      2 1 2 
+        1 
 ```
